@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikolyafernando&label=Profile+views&color=1D9E75&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nikolya-ctrl&label=Profile+views&color=1D9E75&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -140,10 +140,10 @@ Specialization: Security Operations & GRC · CWA: 72.64
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolyafernando&show_icons=true&theme=merko&hide_border=true&title_color=1D9E75&icon_color=1D9E75" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolyafernando&layout=compact&theme=merko&hide_border=true&title_color=1D9E75" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikolya-ctrl&show_icons=true&theme=merko&hide_border=true&title_color=1D9E75&icon_color=1D9E75" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolya-ctrl&layout=compact&theme=merko&hide_border=true&title_color=1D9E75" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolyafernando&theme=merko&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolya-ctrl&theme=merko&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" alt="GitHub Streak"/>
 </p>
