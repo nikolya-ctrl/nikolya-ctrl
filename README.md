@@ -10,9 +10,9 @@
 
 ### `$ whoami`
 
-Detail-oriented Cyber Security undergraduate with hands-on experience in **GRC, risk management, and data protection compliance** at **WSO2** — one of the world's largest open-source identity and API management companies.
+Cyber Security undergraduate with hands-on experience in **GRC, risk management, and data protection compliance** at **WSO2** 
 
-I've built compliance registers across multiple privacy frameworks (UAE PDPL, India DPDP, Australian Privacy Act, Swiss FADP), developed AI governance frameworks, and delivered internal security awareness programs. My long-term goal is to become a **CISO**, bridging technical security with business strategy.
+I've built compliance registers across multiple privacy frameworks (UAE PDPL, India DPDP, Australian Privacy Act, Swiss FADP), developed AI governance frameworks, and delivered internal security awareness programs bridging technical security with business strategy.
 
 ---
 
@@ -20,7 +20,7 @@ I've built compliance registers across multiple privacy frameworks (UAE PDPL, In
 
 - 🏢 **Security & Compliance Intern** at [WSO2](https://wso2.com) — regulatory compliance, risk registers, AI governance, phishing awareness
 - 🎓 **BSc (Hons) Cyber Security** — Curtin University Colombo *(Specialization: SOC & GRC · CWA: 72.64)*
-- 📜 **ISO 27001:2022 Internal Auditor** — in progress
+- 📜 **ISO 27001:2022 Internal Auditor** 
 - 🧪 **Home SOC Lab** — building out threat detection and incident response workflows
 - 🌍 **Accepted speaker** — Social Capital 2026, Heriot-Watt University Dubai
 
@@ -52,16 +52,12 @@ I've built compliance registers across multiple privacy frameworks (UAE PDPL, In
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-#### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 💼 Experience
 
-**Security & Compliance Intern · WSO2** *(2025 – Present)*
+**Security & Compliance Intern · WSO2** *(2026 – Present)*
 > Regulatory compliance mapping across UAE PDPL, India DPDP, Australian Privacy Act, Swiss FADP, Italian PDPC, and Australian SOCI Act. Built granular compliance registers, developed an AI Bias Testing Framework, authored WSO2's Responsible AI Policy, and delivered company-wide phishing awareness training.
 
 **Technical Support Assistant · Codestac Digital Foundries** *(Jan 2025 – Jan 2026)*
