@@ -12,7 +12,7 @@
 
 Cyber Security undergraduate with hands-on experience in **GRC, risk management, and data protection compliance** at **WSO2** 
 
-I've built compliance registers across multiple privacy frameworks (UAE PDPL, India DPDP, Australian Privacy Act, Swiss FADP), developed AI governance frameworks, and delivered internal security awareness programs bridging technical security with business strategy.
+I've built compliance registers across multiple privacy frameworks (UAE PDPL, India DPDP, Australian Privacy Act, Swiss FADP), developed AI governance frameworks, and delivered internal security awareness programs technical security with business strategy.
 
 ---
 
